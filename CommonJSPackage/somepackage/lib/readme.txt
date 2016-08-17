@@ -1,0 +1,1 @@
+JavaScript代码应该在lib目录下

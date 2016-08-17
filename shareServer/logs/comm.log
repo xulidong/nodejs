@@ -1,0 +1,25 @@
+[2015-11-27 17:04:48.741] [INFO] comm - share server start,listen port: 3101
+[2015-11-27 17:04:53.689] [INFO] comm - /share channel=1758&uid=1&nickname=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%B8%85%E5%93%A5&gid=1&sign=4JZbjQPXQFzdmgw0nMSbXcon9lA%3D
+[2015-11-27 17:04:53.691] [INFO] comm - saveMentor invalid gid: undefined
+[2015-11-27 17:04:53.692] [INFO] comm - saveMentor: {"uid":"1","nickname":"机智的帅哥"}
+[2015-11-27 17:04:53.693] [INFO] comm - {"code":0,"msg":"success"}
+[2015-11-27 17:04:58.926] [INFO] comm - /invited/1758 appKey=f01b1f08817d1336dea92483694d63d6&gid=1&inviteeGid=2&inviteeNickname=myNickname&createTime=1448615098&state=1758&sign=4fcfd74ed50a720ecd13e8fb7b31a415
+[2015-11-27 17:04:58.927] [INFO] comm - saveApp: {"gid":"1","inviteeGid":"2"}
+[2015-11-27 17:04:58.928] [INFO] comm - {"code":0,"msg":"success","ret":0}
+[2015-11-27 17:05:02.272] [INFO] comm - /mentor channel=1758&inviteeGid=2&sign=%2BRFZ9bTcFwVujWWlgUj5djt85ek%3D
+[2015-11-27 17:05:02.273] [INFO] comm - getMentor: {"uid":"1","nickname":"机智的帅哥"}
+[2015-11-27 17:05:02.274] [INFO] comm - {"code":0,"msg":"success","mentor":{"uid":"1","nickname":"机智的帅哥"}}
+[2015-11-30 11:36:47.698] [INFO] comm - share server start,listen port: 3101
+[2015-11-30 11:37:13.342] [INFO] comm - /share channel=1758&uid=1&nickname=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%B8%85%E5%93%A5&gid=1&sign=4JZbjQPXQFzdmgw0nMSbXcon9lA%3D
+[2015-11-30 11:37:18.617] [INFO] comm - saveMentor: {"uid":"1","nickname":"机智的帅哥"}
+[2015-11-30 11:37:18.619] [INFO] comm - {"code":0,"msg":"success"}
+[2015-11-30 11:37:25.206] [INFO] comm - /share channel=1758&uid=1&nickname=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%B8%85%E5%93%A5&gid=1&sign=4JZbjQPXQFzdmgw0nMSbXcon9lA%3D
+[2015-11-30 11:37:25.207] [INFO] comm - saveMentor: {"uid":"1","nickname":"机智的帅哥"}
+[2015-11-30 11:37:25.208] [INFO] comm - {"code":0,"msg":"success"}
+[2015-11-30 12:05:34.543] [INFO] comm - share server start,listen port: 3101
+[2015-11-30 12:05:41.913] [INFO] comm - /share channel=1758&uid=1&nickname=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%B8%85%E5%93%A5&gid=1&sign=4JZbjQPXQFzdmgw0nMSbXcon9lA%3D
+[2015-11-30 12:05:41.916] [INFO] comm - saveMentor: {"uid":"1","nickname":"机智的帅哥"}
+[2015-11-30 12:05:41.917] [INFO] comm - {"code":0,"msg":"success"}
+[2015-11-30 15:07:22.846] [INFO] comm - share server start,listen port: 3101
+[2015-11-30 15:07:26.849] [INFO] comm - share server start,listen port: 3101
+[2015-11-30 15:07:29.869] [INFO] comm - share server start,listen port: 3101

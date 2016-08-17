@@ -1,0 +1,4 @@
+var Demo = require('./hello');
+d = new Demo;
+d.setName('xulidong');
+d.sayName();
